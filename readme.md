@@ -1,7 +1,9 @@
-Project Proposal:Donor Hive
-Project Overview
+### Project Proposal:Donor Hive
+
+## Project Overview
 Donor Hive is a web platform designed to connect blood donors with hospitals, NGOs, and recipients in real-time. The platform provides a transparent, location-based system that enables donors to find urgent requests, schedule donations, and track their impact. Hospitals and NGOs can list blood requirements, manage inventory, and send emergency alerts to potential donors.
-Problem Statement
+
+## Problem Statement
 Lack of Donor Visibility – Hospitals struggle to locate suitable donors during emergencies.
 
 
@@ -14,7 +16,7 @@ No Centralized System – Donors find it difficult to discover urgent blood dona
 Low Donor Retention – Donors lack incentives and visibility into how their donations make a difference.
 
 
-Proposed Solution
+## Proposed Solution
 For Donors:
 Search & Filter – Find blood requests based on blood type, location, and urgency.
 
@@ -35,13 +37,13 @@ Emergency Alerts – Notify compatible donors via SMS/email for urgent cases.
 Analytics Dashboard – Monitor donation trends and forecast shortages.
 
 
-Key Features
+## Key Features
 ✅ Smart Matching – Alerts for nearby blood requests matching donor blood type. 
 ✅ Real-Time Tracking – Hospitals update blood stock levels; donors see donation impact.
 ✅ Emergency Alerts – SMS/email notifications for urgent blood requests.
 ✅ Donor Rewards – Gamification elements (badges, milestones) to encourage repeat donations.
 
-Project Timeline (4 Weeks)
+## Project Timeline (4 Weeks)
 Week 1: Backend Setup & Authentication
 Design wireframes (low-fidelity and high-fidelity)
 
@@ -116,7 +118,7 @@ Full platform deployment
 
 
 
-Future Enhancements
+## Future Enhancements
 AI Matching – Prioritize donors based on past donations and location.
 
 
@@ -126,5 +128,5 @@ Blood Bank Integration – Sync with hospitals for real-time stock updates.
 Gamification – Reward donors with badges and recognition for repeat donations.
 
 
-Conclusion
+## Conclusion
 Donor Hive provides a real-time, transparent, and efficient solution for connecting blood donors with those in urgent need. The platform tackles donor visibility, communication inefficiencies, and donor retention, ensuring that life-saving donations are made available when and where they are needed most.
